@@ -1,6 +1,6 @@
 # Car Rental Management System
 
-A PHP and MySQL based web application for vehicle rental and booking
+A PHP and MySQL based web application for vehicle rental and booking.
 
 ## Features
 - User registration and login
